@@ -1,0 +1,607 @@
+    1  sudo apt-get install /home/succes/Documents/DevData/Installation/code_1.73.0-1667318785_amd64.deb
+    2  bash /home/succes/Documents/DevData/Installation/Anaconda3-2021.11-Linux-x86_64.sh
+    3  sudo chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
+    4  ./Anaconda3-2021.11-Linux-x86_64.sh
+    5  ./Anaconda3-2021.11-Linux-x86_64.sh -u
+    6  exit
+    7  ls
+    8  rm -r anaconda3
+    9  clear
+   10  bash
+   11  rm -r anaconda3/
+   12  clear
+   13  sudo apt purge anaconda
+   14  clear
+   15  exit
+   16  ls
+   17  ./Anaconda3-2021.11-Linux-x86_64.sh
+   18  clear
+   19  exit
+   20  ls
+   21  ls -l
+   22  ./Anaconda3-2021.11-Linux-x86_64.sh 
+   23  clear
+   24  ls
+   25  cd
+   26  sh /home/succes/Documents/DevData/Installation/Anaconda3-2021.11-Linux-x86_64.sh 
+   27  sudo sh /home/succes/Documents/DevData/Installation/Anaconda3-2021.11-Linux-x86_64.sh 
+   28  sh /home/succes/Documents/DevData/Installation/Anaconda3-2021.11-Linux-x86_64.sh 
+   29  cd Documents/DevData/Installation/
+   30  LS
+   31  ls
+   32  python3 test.py 
+   33  cd Documents/DevData/Installation/python3
+   34  cd Documents/DevData/Installation/
+   35  python3
+   36  clear
+   37  python3 test.py 
+   38  clear
+   39  python3 test.py 
+   40  sudo apt update
+   41  sudo apt install mysql-server
+   42  sudo systemctl start mysql.service
+   43  sudo systemctl start mysql.service*
+   44  clear
+   45  mysql
+   46  sudo mysql
+   47  clear
+   48  sudo systemctl status mysql.service*
+   49  sudo systemctl stop mysql.service
+   50  clear
+   51  sudo systemctl start mysql.service
+   52  exit
+   53  sudo systemctl start mysql.service
+   54  sudo mysql
+   55  mysql -u root -p
+   56  yes
+   57  clear
+   58  mysql -u root -p
+   59  clear
+   60  mysql -u root -p
+   61  sudo mysql
+   62  mysql -u root -p
+   63  mysql
+   64  sudo mysql
+   65  studo mysql
+   66  sudo mysql
+   67  sudo mysql
+   68  mysql -u root -p
+   69  clear
+   70  sudo mysql
+   71  mysql -u root -p
+   72  Djimteb@ye2000
+   73  mysql -u root -p
+   74  clear
+   75  sudo mysql
+   76  mysql
+   77  systemctl status mysql.service 
+   78  cleœ
+   79  clear
+   80  mysql
+   81  sudo su
+   82  sudo apt purge mysql-server
+   83  clear
+   84  sudo apt install mysql-server
+   85  mysql
+   86  sudo mysql
+   87  mysql
+   88  mysql -u root -p Djimteb@ye2000
+   89  clear
+   90  sudo apt update 
+   91  sudo apt purge mysql-server
+   92  sudo apt install mysql-server
+   93  clear
+   94  mysql
+   95  clear
+   96  systemctl restart mysql.service 
+   97  systemctl status mysql.service 
+   98  clear
+   99  mysql
+  100  mysql -u root -p
+  101  clear
+  102  sudo ap gret
+  103  sudo apt
+  104  sudo apt upgrade
+  105  mysql
+  106  clea
+  107  clear
+  108  mysql
+  109  mysql -u root -p
+  110  sudo mysql
+  111  clear
+  112  sudo apt purge mysql-server
+  113  clear
+  114  mysql
+  115  clear
+  116  mysql -u succes -p
+  117  mysql -u root -p
+  118  lsb_release -a
+  119  sudo systemctl status mysql
+  120  sudo systemctl stop mysql
+  121  sudo systemctl status mysql
+  122  sudo apt-get remove --purge mysql-server mysql-client mysql-common
+  123  sudo apt-get autoclean
+  124  sudo apt-get autoremove
+  125  sudo rm -rf /var/lib/mysql
+  126  clear
+  127  systemctl status mysql
+  128  clear
+  129  mysql -u root -p
+  130  clear
+  131  sudo apt install mysql-server
+  132  sudo systemctl start mysql.service
+  133  sudo mysql
+  134  sudo mysql
+  135  sudo apt-get install /home/succes/Documents/DevData/Installation/mysql-workbench-community_8.0.31-1ubuntu22.04_amd64.deb
+  136  mysql -u root -p
+  137  sudo apt update
+  138  sudo apt install libgmp3-dev libpq-dev
+  139  sudo mkdir -p /var/lib/pgadmin4/sessions
+  140  sudo mkdir /var/lib/pgadmin4/storage
+  141  sudo mkdir /var/log/pgadmin4
+  142  [200~sudo mkdir -p /var/lib/pgadmin4/sessions~
+  143  sudo mkdir -p /var/lib/pgadmin4/sessions
+  144  sudo mkdir /var/log/pgadmin4
+  145  [200~sudo chown -R sammy:sammy /var/lib/pgadmin4~
+  146  sudo apt update
+  147  sudo apt install postgresql postgresql-contrib
+  148  sudo -i -u postgres
+  149  psql
+  150  sudo apt update
+  151  sudo apt install libgmp3-dev libpq-dev
+  152  sudo mkdir -p /var/lib/pgadmin4/sessions
+  153  sudo mkdir /var/lib/pgadmin4/storage
+  154  sudo mkdir /var/log/pgadmin4
+  155  sudo chown -R sammy:sammy /var/lib/pgadmin4
+  156  sudo chown -R postgres:postgres /var/lib/pgadmin4
+  157  sudo chown -R postgres:postgres /var/log/pgadmin4
+  158  makdir environments
+  159  mkdir environments
+  160  cd environments
+  161  python -m pip install -U pip
+  162  sudo apt-get install python3
+  163  python -m pip install -U pip
+  164  python3 -m pip install -U pip
+  165  cd 
+  166  python -m pip install -U pip
+  167  sudo apt apdate 
+  168  sudo apt update  
+  169  python -m pip install -U pip
+  170  sudo apt -y upgrade
+  171  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'
+  172  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  173  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'
+  174  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  175  apr get
+  176  apt get
+  177  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'
+  178  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  179  sudo apt update && sudo apt upgrade
+  180  sudo apt install pgadmin4-desktop
+  181  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'
+  182  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  183  see apt-key
+  184  sudo apt-get install url
+  185  sudo apt install url
+  186  sudo apt-key add
+  187  sudo apt install curl
+  188  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'
+  189  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  190  sudo apt update && sudo apt upgrade
+  191  [200~sudo apt install pgadmin4~
+  192  sudo apt install pgadmin4
+  193  sudo /usr/pgadmin4/bin/setup-web.sh
+  194  sudo apt update && sudo apt upgrade
+  195  [200~cd /tmp~
+  196  apt-get install git
+  197  sudo install dpkg
+  198  sudo install --help  dpkg
+  199  sudo apt-get install git
+  200  git
+  201  pip install django
+  202  sudo apt install python3-pip
+  203  pip install django
+  204  pwd
+  205  mkdir TesteT4C
+  206  cd TesteT4C
+  207  ls
+  208  git init tutos
+  209  tutod
+  210  tutos
+  211  cd tutos
+  212  cd
+  213  cd..
+  214  touch REAME.md
+  215  nano README.md
+  216  cat README.md
+  217  git add README.md
+  218  cd TesteT4C/tutos/
+  219  touch RRADME.md
+  220  nano RAEDME.md
+  221  cat README.md
+  222  touch RRADME.md
+  223  nano RAEDME.md
+  224  cat README.md
+  225  touch RRADME.md
+  226  nano RAEDME.md
+  227  cat README.md
+  228  ls
+  229  clear
+  230  sudo snap install intellij-idea-community --classic
+  231  clear
+  232  sudo snap install intellij-idea-community --classic
+  233  cd employment_project/
+  234  ls
+  235  source employment_project/bin/activate
+  236  cd ..
+  237  source employment_project/bin/activate
+  238  ls
+  239  source elearning_virtual_env/bin/activate
+  240  cd employment_project/
+  241  python3 manage.py runserver
+  242  sudo update-alternatives --config java
+  243  clear
+  244  Mkdir demo_2
+  245  mkdir demo_2
+  246  cd...
+  247  cd
+  248  cd..
+  249  git config -- color.ui auto
+  250  mkdir GitLearn
+  251  cd GitLearn
+  252  git clone https://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@github.com/Sdjimtebaye/djimtebaye.git
+  253  ls
+  254  cd djimtebaye/
+  255  ls
+  256  gedit README.md
+  257  gedit Daron.py
+  258  git clone https://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@github.com/Sdjimtebaye/NMKS.git
+  259  ls
+  260  cd
+  261  cd NMKS
+  262  CD /home/succes/GitLearn/
+  263  cd /home/succes/GitLearn/
+  264  cd djimtebaye/
+  265  cd NMKS/
+  266  gedit README.md
+  267  gedit README.py
+  268  edit Sur.txt
+  269  gedit Sur.txt
+  270  git add .
+  271  git commit -m 'Commentaire'
+  272  git config --global user.email "mimbetinansucces@gmail.com"
+  273  git config --global user.name "Sdjimtebaye"
+  274  git commit -m 'Commentaire'
+  275  git push
+  276  git
+  277  git config --global Sdjimtebaye "[Succes]"
+  278  git clone https://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@github.com/Sdjimtebaye/djimtebaye.git
+  279  ls
+  280  mkdir GitLearn
+  281  cd GitLearn
+  282  git clone https://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@github.com/Sdjimtebaye/djimtebaye.git
+  283  ls
+  284  vi README.md
+  285  source elearning_virtual_env/bin/activate
+  286  cd employment_project/
+  287  clear
+  288  ls
+  289  python3 manage.py runserver
+  290  pip install django-bootstrap-v5
+  291  clear
+  292  pip install django-crispy-forms
+  293  pip install crispy-bootstrap5
+  294  clear
+  295  python3 manage.py runserver
+  296  source elearning_virtual_env/
+  297  clear
+  298  source elearning_virtual_env/bin/activate
+  299  python3 manage.py runserver
+  300  history 
+  301  source elearning_virtual_env/bin/activate
+  302  ls
+  303  cd employment_project/
+  304  pyton3 manage.py runserver
+  305  python3 manage.py runserver
+  306  ls
+  307  cd employment_project/
+  308  python 3 manage.py runserver
+  309  source elearning_virtual_env/bin/activate
+  310  cd employment_project/
+  311  python3 manage.py runserver
+  312  source elearning_virtual_env/bin/activate
+  313  cd employment_project/
+  314  python3 manage.py runserver
+  315  clear
+  316  python3 manage.py runserver
+  317  source elearning_virtual_env/bin/activate
+  318  cd employment_project/
+  319  python3 manage.py runserver
+  320  git
+  321  git init Projet
+  322  git add Projet
+  323  git status
+  324  cd projet
+  325  mkdir Projet
+  326  ls
+  327  cd bureau
+  328  cd Bureau
+  329  mkdir Projet
+  330  cd Projet
+  331  git init Tuto
+  332  git add Tuto
+  333  git init
+  334  git add .
+  335  ls
+  336  git init 
+  337  git clone https://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@github.com/Sdjimtebaye/djimtebaye.git
+  338  clear
+  339  git init
+  340  touch README
+  341  git clone https://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@github.com/Sdjimtebaye/Project-New.git
+  342  cd projet
+  343  touch README.md
+  344  vi README.md
+  345  git add .
+  346  git commit
+  347  git add Tuto
+  348  git add "Tuto"
+  349  git commit "Tuto"
+  350  git commit "Projet-New"
+  351  git push
+  352  git push https://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@github.com/Sdjimtebaye/Project-New.git
+  353  clear
+  354  cd ~
+  355  ls
+  356  cd Bureau
+  357  mkdir projetgit
+  358  ls
+  359  rm -rf Projet
+  360  ls
+  361  cd projetgit
+  362  mkdir tuto
+  363  cd tuto
+  364  touch nom
+  365  touch prenom
+  366  cd..
+  367  git add .c
+  368  cd ..
+  369  git add
+  370  git add .
+  371  git init
+  372  git config --global init.defaultBranch main
+  373  git add .
+  374  git status
+  375  git commit -m "ajout des fichiers"
+  376  git checkout -b genre
+  377  ls
+  378  git add .
+  379  git commit -m "nouvelle branche"
+  380  git
+  381  git checkout main
+  382  git clone https://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@github.com/Sdjimtebaye/Project-New.git
+  383  ls
+  384  cd Project-New/
+  385  touch README.md
+  386  mkdir nom
+  387  mkdir prenom
+  388  cd nom
+  389  touch html
+  390  cd ..
+  391  git add .
+  392  git commit -m "ceci est mon commit"
+  393  git push 
+  394  ls
+  395  git add .
+  396  git commit -m "My commit"
+  397  git push
+  398  ls
+  399  cd nom
+  400  cd ..
+  401  cd prenom
+  402  touch css
+  403  touch index.html
+  404  cd ..
+  405  git add .
+  406  git commit
+  407  git push
+  408  ls
+  409  rm GitLearn
+  410  rm -R GitLearn
+  411  pwd
+  412  ls
+  413  ls -l
+  414  ls -a
+  415  ls -la
+  416  mkdir
+  417  mkdir projetgit
+  418  ls
+  419  cd projetgit
+  420  cd ..
+  421  cd :
+  422  rm
+  423  rm --help
+  424  rm-R
+  425  rm - R
+  426  df
+  427  df -h
+  428  du -h
+  429  cut .projetgit
+  430  top
+  431  ls document
+  432  ls GitLearn
+  433  ls Documents/
+  434  exit
+  435  ls la
+  436  ls -la
+  437  exit
+  438  ls GitLearn/
+  439  ls Documents/
+  440  exit
+  441  pwd -L
+  442  exit
+  443  pwd --help
+  444  exit
+  445  pwd
+  446  exit
+  447  pwd
+  448  pwd --l
+  449  pwd--l
+  450  exit
+  451  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  452  clear
+  453  top
+  454  claer
+  455  clear
+  456  ls
+  457  clear
+  458  ls
+  459  clear
+  460  cd documents
+  461  cd devdat
+  462  cd devdata
+  463  cd employment
+  464  ls
+  465  claer
+  466  clear
+  467  cd djimtebaye
+  468  cd ..
+  469  ls
+  470  cd djimtebaye
+  471  ls -la
+  472  ls
+  473  pwd
+  474  cd
+  475  exit
+  476  pwd
+  477  source elearning/bin/activate
+  478  cd employment
+  479  ls
+  480  cd employment
+  481  cd employment_project
+  482  python3 manage.py runserver
+  483  ls employment_project
+  484  source elearning/bin/activate
+  485  source elearning_virtual_env/
+  486  source elearning/bin/activate
+  487  cd employment
+  488  source elearning_virtual_env/bin/activate
+  489  cd employment_project/
+  490  python3 manage.py runserver
+  491  ls
+  492  python3 tkinter_app.py 
+  493  pip install tkinter
+  494  clear
+  495  pip list
+  496  clear
+  497  python3
+  498  clear
+  499  python3 -m tkinter
+  500  clear
+  501  pip install tkinter3
+  502  clear
+  503  pip install tkinter8.6
+  504  pip install tkinter.8.6
+  505  clear
+  506  pip install tkinter8
+  507  clear
+  508  pip install tkinter
+  509  clear
+  510  sudo apt-get install python-tk
+  511  clear
+  512  python3
+  513  clear
+  514  sudo apt-get install python3.10-tk
+  515  clear
+  516  python3 tkinter_app.py
+  517  status
+  518  git clone https://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@github.com/BBE-11/groupe_3.git
+  519  git 
+  520  git commit -m "Ceci est un travail de groupe"
+  521  git push
+  522  cd tp
+  523  cd TP
+  524  python3 tkinter_app.py 
+  525  cd ..
+  526  git add .
+  527  git commit -m "Ceci est un travail de groupe"
+  528  git push
+  529  cd TP
+  530  python3 tkinter_app.py 
+  531  git clone https://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@github.com/BBE-11/groupe_3.git
+  532  cd TP
+  533  cd groupe_3
+  534  cd TP
+  535  git clone https://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@github.com/BBE-11/groupe_3.git
+  536  cd TP
+  537  cd groupe_3
+  538  git clone https://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@github.com/BBE-11/groupe_3.git
+  539  /bin/python3 /home/succes/Documents/DevData/groupe_3/TP/groupe_3/TP/tkinter_app.py
+  540  cd ls
+  541  cd projetgit
+  542  cd ls
+  543  git init
+  544  git status
+  545  mkdir git-third_day
+  546  ls
+  547  clear
+  548  exit
+  549  git clone https://github.com/Sdjimtebaye/git-third_day.git
+  550  cd projetgit
+  551  git clonehttps://github.com/Sdjimtebaye/git-third_day.git
+  552  git clone https://github.com/Sdjimtebaye/git-third_day.git
+  553  'my first readme' > README.md 
+  554  LS
+  555  ls
+  556  touch README.md
+  557  ls
+  558  git add .
+  559  git commit
+  560  cd git-third_day/
+  561  touch README.md
+  562  git add .
+  563  git commit -m "My first commit"
+  564  git push
+  565  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
+  566  git push
+  567  mkdir bash
+  568  mkdir c
+  569  mkdir js
+  570  cd c
+  571  touch c_is_fun.c
+  572  ls
+  573  cd ..
+  574  cd js
+  575  main.js
+  576  touch main.js
+  577  ls
+  578  touch index.js
+  579  ls
+  580  cd ..
+  581  cd bash
+  582  touch tech4tchad
+  583  tech4tchad
+  584  ls
+  585  nano tech4tchad 
+  586  gedit tech4tchad 
+  587  gedit school
+  588  cd ..
+  589  git add .
+  590  git commit
+  591  git push
+  592  clear
+  593  history
+  594  mkdir tech-git
+  595  cd tech-git/
+  596  gedit README.md
+  597  clear
+  598  ls
+  599  cd ..
+  600  git add .
+  601  git commit  -m "On code, c'est trop Cool"
+  602  git push 
+  603  git push
+  604  clear
+  605  history
+  606  clear
+  607  history >> historique+projet+git.txt
